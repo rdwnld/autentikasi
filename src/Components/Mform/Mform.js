@@ -10,8 +10,8 @@ function Mform() {
             <Navbar className='text-dark mb-3'>
                 <Container>
                     <Nav className="mx-auto">
-                        <Link class="nav-link" to={'/'}><b>Sign In</b></Link>
-                        <Link class="nav-link" to={'/SignUp'}><b>Sign Up</b></Link>
+                        <Link class="nav-link nv" to={'/'}><b>Sign In</b></Link>
+                        <Link class="nav-link nv" to={'/SignUp'}><b>Sign Up</b></Link>
                     </Nav>
                 </Container>
             </Navbar>
